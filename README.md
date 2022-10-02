@@ -23,7 +23,7 @@
 ## The Algorithm - Flowchart:
 <img src = "Pet Feeder - Algorithm - Flowchart.drawio.png" width="400" height="500">
 
-Note: You can open the "Pet Feeder Project.docx to see more details about this project.
+Note: You can open the "Pet Feeder Project.docx" to see more details about this project.
 
 ------------------
 
