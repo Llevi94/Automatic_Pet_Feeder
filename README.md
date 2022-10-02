@@ -3,25 +3,27 @@
 
 - The project is a practical project, a combination of connecting sensors and motors to an Arduino board, writing code and connecting all the components together to create a robot.
 
+- Open the code in arduino software (you can download it [here](https://www.arduino.cc/en/software))
+
 ## The final result:
 - You can watch the video with the pet [here](https://drive.google.com/file/d/1izn00LDfmfZ7mllzdkYeRc1p3D09ykgU/view?usp=sharing) -> Google Drive).
 - You can watch the video in the lab [here](https://drive.google.com/file/d/1SpbiHcdAeh8mPDBuBdDKa1x7ciby_aiF/view?usp=sharing) -> Google Drive).
 
 ## The Pictures:
 - The connections:
-<img src = "connections.jpg" width="200" height="200">
+<img src = "photos/connections.jpg" width="200" height="250">
 - The lcd and buttons:
-<img src = "lcd+btns.jpg" width="200" height="200">
+<img src = "photos/lcd+btns.jpg" width="400" height="150">
 - The robot:
-<img src = "petfeeder.jpg" width="200" height="200">
+<img src = "photos/petfeeder.jpg" width="250" height="200">
 
 
 ## The connection simulation:
-<img src = "pet feeder project.png" width="450" height="350">
+<img src = "photos/pet feeder project.png" width="450" height="350">
 
 
 ## The Algorithm - Flowchart:
-<img src = "Pet Feeder - Algorithm - Flowchart.drawio.png" width="400" height="500">
+<img src = "photos/Pet Feeder - Algorithm - Flowchart.drawio.png" width="400" height="500">
 
 Note: You can open the "Pet Feeder Project.docx" to see more details about this project.
 
