@@ -3,7 +3,7 @@
 
 - The project is a practical project, a combination of connecting sensors and motors to an Arduino board, writing code and connecting all the components together to create a robot.
 
-- Open the code in arduino software (you can download it [here](https://www.arduino.cc/en/software))
+- Open the code in arduino IDE (you can download it [here](https://www.arduino.cc/en/software))
 
 ## The final result:
 - You can watch the video with the pet [here](https://drive.google.com/file/d/1izn00LDfmfZ7mllzdkYeRc1p3D09ykgU/view?usp=sharing) -> Google Drive).
