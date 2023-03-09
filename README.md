@@ -1,4 +1,4 @@
-# Robotics_Pet_Feeder
+# Automatic_Pet_Feeder
 ------------------
 
 - The project is a practical project, a combination of connecting sensors and motors to an Arduino board, writing code and connecting all the components together to create a robot.
